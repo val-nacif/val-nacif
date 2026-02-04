@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# holamundo
+Me llamo Valentina **Nacif**, estudio comunicación visual con un *enfoque en artes plasticas*.
+
+lo que mas me gusta hacer es:
+- bailar
+- pintar
+- ver la tele
